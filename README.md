@@ -1,2 +1,2 @@
 # u-develop-it
-12 | SQL
+* 12 | SQL
